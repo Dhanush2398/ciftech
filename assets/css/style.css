@@ -560,6 +560,7 @@ p {
 
 .bg-dark-optional {
     background-color: var(--dark-optional);
+    
 }
 
 .bg-theme {
@@ -568,6 +569,11 @@ p {
 
 .color-style-two .bg-theme {
     background-color: var(--color-style-two);
+}
+@media (max-width: 767px) {
+   .color-style-two .bg-theme {
+   display: none;
+  }
 }
 
 .color-style-three .bg-theme {
@@ -6409,7 +6415,7 @@ a.btn-reagular i {
 }
 
 .service-style-six-item img {
-    height: 60px;
+    height: 150px;
     margin-bottom: 20px;
 }
 
