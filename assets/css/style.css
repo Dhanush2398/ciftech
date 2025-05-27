@@ -6416,6 +6416,7 @@ a.btn-reagular i {
 
 .service-style-six-item img {
     height: 150px;
+    width: 300px;
     margin-bottom: 20px;
 }
 
@@ -13702,3 +13703,27 @@ footer.footer-two {
     color: #00d4ff;
     transform: scale(1.1);
 }
+
+@media (min-width: 992px) {
+  .industries-left-content {
+    background-color: rgba(176, 153, 153, 0.5); 
+    padding: 40px;
+    border-radius: 10px;
+    color: #fff;
+  }
+  .industries-left-content .sub-title,
+  .industries-left-content .title,
+  .industries-left-content p {
+    color: #fff;
+  }
+}
+
+.industries-left-content h4,
+.industries-left-content h2,
+.industries-left-content p {
+    color: #1F2B38 !important;
+}
+/*
+.services-style-six-area{
+    background-color: #00868C;
+}*/
