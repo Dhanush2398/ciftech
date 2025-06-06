@@ -1,11 +1,5 @@
-/* ----------------------------------
 
-Template Name: Validnavs - Multipurpose Navbar Menu
-Author: validtheme
-Description:
-Version: 1.0
 
-------------------------------------- */
 
 :root {
     --box-shadow: 0px 0px 20px 0px rgba(7, 20, 52, .1);
@@ -341,7 +335,7 @@ Version: 1.0
 }
 
 .color-style-two .navbar .attr-right .attr-nav li .call i {
-    color: var(--color-style-two);
+    color:#FE6035;
 }
 
 .attr-nav.flex ul {
@@ -3102,7 +3096,7 @@ nav.navbar.validnavs .navbar-collapse.collapse button i {
         clip-path: polygon(0 0, 100% 0, 80% 100%, 0% 100%);
     }
     .color-style-two .navbar.brand-style-bg .navbar-header::after {
-        background: var(--color-style-two);
+        background:#FE6035;
     }
     .navbar.brand-style-bg .navbar-header::before {
         position: absolute;
@@ -3117,7 +3111,7 @@ nav.navbar.validnavs .navbar-collapse.collapse button i {
         z-index: -1;
     }
     .color-style-two .navbar.brand-style-bg .navbar-header::before {
-        background: var(--color-style-two);
+        background:#FE6035;
     }
     .navbar.brand-style-bg.sticked .navbar-header {
         padding: 14px 0;
