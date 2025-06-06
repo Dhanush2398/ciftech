@@ -6385,6 +6385,7 @@ a.btn-reagular i {
     background-size: 30%;
     background-repeat: no-repeat;
     background-position: right bottom;
+    margin-bottom: 20px;
 }
 
 .services-style-six-area .shape {
@@ -7566,6 +7567,7 @@ ul.list-style-two li h4 {
     background-size: 20%;
     background-repeat: no-repeat;
     background-position: top left;
+    margin-bottom: 20px;
 }
 
 .card-style-two {
@@ -8680,6 +8682,7 @@ form.short-newsletter.style-two button::after {
     background-size: 25%;
     background-position: left bottom;
     background-repeat: no-repeat;
+    margin-bottom: 20px;
 }
 
 .list-style-four {
@@ -13342,6 +13345,7 @@ footer.footer-two {
 
 .bg-dark .contact-style-one-area {
     background-image: none !important;
+   
 }
 
 .bg-dark .contact-one-list .item {
@@ -13728,4 +13732,12 @@ footer.footer-two {
 .industries-left-content h2,
 .industries-left-content p {
     color: #1F2B38 !important;
+}
+
+.process-style-two-area{
+    margin-bottom: 20px;
+}
+
+.testimonial-style-three-area{
+    margin-bottom: 20px;
 }
