@@ -713,7 +713,7 @@ p {
 
 .default-padding {
     padding-top: 120px;
-    padding-bottom: 120px;
+   
 }
 
 @media only screen and (max-width: 767px) {
@@ -5163,7 +5163,7 @@ ul.list-check li::after {
 
 .call-action a .icon {
     padding: 25px;
-    background: var(--dark-optional);
+    background: #023047;
     border-radius: 50%;
 }
 
@@ -5239,7 +5239,7 @@ ul.list-check li::after {
 }
 
 .color-style-two .feature-hightlight ul li::after {
-    background: #34a1a5;
+    background: #062E39;
 }
 
 /* About Style Four */
@@ -6190,7 +6190,7 @@ a.btn-reagular i {
 }
 .services-style-four h4 a,
 .services-style-four p {
-  color: #1F2B38;
+  color: #fff;
 }
 .services-style-four:hover i {
 
@@ -6403,7 +6403,7 @@ a.btn-reagular i {
 }
 
 .service-style-six-item {
-    background: var(--dark);
+    background: #023047;
     box-shadow: 0px 15px 60px -10px rgb(109 117 143 / 33%);
     padding: 40px;
     margin-top: 30px;
